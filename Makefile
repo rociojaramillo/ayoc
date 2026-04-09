@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -pedantic
-TARGETS = holaorga ej3 ej4
+TARGETS = holaorga ej3 ej4 ej5
 
 all: $(TARGETS)
 
